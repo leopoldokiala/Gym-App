@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667464483623",
+    "project_id": "flutter-c80fa",
+    "storage_bucket": "flutter-c80fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667464483623:android:108fa32e8f0f8708035f02",
+        "android_client_info": {
+          "package_name": "com.example.gym_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4B7R8xBiSoYPT413l50tc1i4SEQFscic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
