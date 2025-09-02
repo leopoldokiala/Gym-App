@@ -1,16 +1,23 @@
-# gym_app
+# Gym-App
 
-A new Flutter project.
+Um aplicativo de academia desenvolvido em Flutter com integração ao Firebase, pensado para auxiliar no registro de exercícios e no acompanhamento de sentimentos diários durante os treinos.
 
-## Getting Started
+O projeto foi criado para estudos e prática de desenvolvimento mobile, mas já possui uma base sólida que pode ser expandida.
 
-This project is a starting point for a Flutter application.
+# Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+Autenticação com Firebase (cadastro e login de usuários).
+Cadastro e gerenciamento de exercícios com nome e descrição.
+Registro de sentimentos para acompanhar o humor diário.
+Interface personalizada com cores definidas em MinhasCores.
+Feedback ao usuário com Snackbars e mensagens dinâmicas.
+Estrutura organizada em Modelos, Servicos, Componentes, Telas e _Comum.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Tecnologias Utilizadas
+Flutter
+Dart
+Firebase Authentication
+Cloud Firestore
+Firebase Storage (Usei o Firebase Emulator para o upload de imagens)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Um cheirinho...
