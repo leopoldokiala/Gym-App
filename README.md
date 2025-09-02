@@ -23,3 +23,14 @@ Firebase Storage (Usei o Firebase Emulator para o upload de imagens)
 # Um cheirinho...
 https://github.com/user-attachments/assets/d399b0af-a0f8-4808-a294-2714df2a7d1e
 
+# Como rodar o projeto
+Pré-requisitos:
+Flutter instalado (guia oficial).
+Projeto configurado no Firebase Console.
+# Passos
+Clone o repositório:
+git clone https://github.com/leopoldokiala/Gym-App
+# Instale as dependências:
+flutter pub get
+# Rode o projeto:
+flutter run
