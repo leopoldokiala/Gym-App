@@ -21,3 +21,5 @@ Cloud Firestore
 Firebase Storage (Usei o Firebase Emulator para o upload de imagens)
 
 # Um cheirinho...
+https://github.com/user-attachments/assets/d399b0af-a0f8-4808-a294-2714df2a7d1e
+
